@@ -1,7 +1,7 @@
 # Stellar-XLM 
 Stellar is an open network for storing and moving money.
 
-![An Image of the XRP currency.](Stellar_XLM.png)
+![An Image of the XLM currency.](Stellar_XLM.png)
 
 
 -------------------------------------------------------
