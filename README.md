@@ -1,5 +1,7 @@
-# Stellar-XLM ()
+# Stellar-XLM 
 Stellar is an open network for storing and moving money.
+
+[!An Image of Stellar](Stellar-XLM.png)
 
 -------------------------------------------------------
 
