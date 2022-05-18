@@ -18,4 +18,4 @@ Stellar's API and SDKs are ready to help you transform the world of finance, and
 * Asset exchanges
 * Micropayment services
 
-![An Image of XLM Exchange](Stellar_Exchange.png)
+![An Image of XLM Exchange.](Stellar_Exchange.png)
